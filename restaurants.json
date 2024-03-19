@@ -1,0 +1,30 @@
+[
+    {
+      "image": "https://popsy.coomevarecreacion.com/images/logo-popsy.png",
+      "name": "Popsy",
+      "rating": 4.6,
+      "address": "Cra 1 N° 18A-12",
+      "description": "Heladería"
+    },
+    {
+      "image": "https://centromayor.com.co/wp-content/uploads/2023/02/logo_de_spoleto_centro_mayor-2.jpg",
+      "name": "Spoleto",
+      "rating": 4.8,
+      "address": "Cra 1 N° 15-20",
+      "description": "Pastas"
+    },
+    {
+      "image": "https://www.mambogota.com/wp-content/uploads/2018/05/logo-Crepes-Waffles-01.png",
+      "name": "Crepes & Waffles",
+      "rating": 4.8,
+      "address": "Calle 12a #71D-61",
+      "description": "Restaurante - Heladería"
+    },
+    {
+      "image": "https://1000logos.net/wp-content/uploads/2017/06/Subway-logo.png",
+      "name": "Subway",
+      "rating": 4.8,
+      "address": "Diagonal 20a #0-54",
+      "description": "Sanduchería"
+    }
+  ]
