@@ -1,30 +1,38 @@
 [
     {
+      "id": 1,
       "image": "https://cityplaza.com.co/wp-content/uploads/2020/01/POPSY-300x225.jpg",
       "name": "Popsy",
       "rating": 4.6,
       "address": "Cra 1 N° 18A-12",
-      "description": "Heladería"
+      "type": "Heladería",
+      "description": "Popsy es una heladería que ofrece una gran variedad de sabores de helado, conos, malteadas, entre otros."
     },
     {
+      "id": 2,
       "image": "https://centromayor.com.co/wp-content/uploads/2023/02/logo_de_spoleto_centro_mayor-2.jpg",
       "name": "Spoleto",
       "rating": 4.8,
       "address": "Cra 1 N° 15-20",
-      "description": "Pastas"
+      "type": "Pastas",
+      "description": "Spoleto es un restaurante que ofrece una gran variedad de pastas, ensaladas, salsas, entre otros."
     },
     {
+      "id": 3,
       "image": "https://www.mambogota.com/wp-content/uploads/2018/05/logo-Crepes-Waffles-01.png",
       "name": "Crepes & Waffles",
       "rating": 4.8,
       "address": "Calle 12a #71D-61",
-      "description": "Restaurante - Heladería"
+      "type": "Restaurante - Heladería",
+      "description": "Crepes & Waffles es un restaurante que ofrece una gran variedad de platos fuertes, ensaladas, postres, entre otros."
     },
     {
+      "id": 4,
       "image": "https://1000logos.net/wp-content/uploads/2017/06/Subway-logo.png",
       "name": "Subway",
       "rating": 4.8,
       "address": "Diagonal 20a #0-54",
-      "description": "Sanduchería"
+      "type": "Sanduchería",
+      "description": "Subway es una sanduchería que ofrece una gran variedad de sándwiches, ensaladas, galletas, entre otros."
     }
   ]
