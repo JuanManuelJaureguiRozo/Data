@@ -6,33 +6,153 @@
       "rating": 4.6,
       "address": "Cra 1 N° 18A-12",
       "type": "Heladería",
-      "description": "Popsy es una heladería que ofrece una gran variedad de sabores de helado, conos, malteadas, entre otros."
+      "description": "Popsy es una heladería que ofrece una gran variedad de sabores de helado, conos, malteadas, entre otros.",
+      "menu": [
+        {
+          "id": 1,
+          "name": "Porción torta de óreo",
+          "price": "$4.900",
+          "rating": 4.7,
+          "image": "https://domiciliospopsy.com/storage/products/1205/d28d422aa29ab53070656dad67563dc7.png"
+        },
+        {
+          "id": 2,
+          "name": "Porción torta de Juan Valdez",
+          "price": "$4.900",
+          "rating": 4.2,
+          "image": "https://domiciliospopsy.com/storage/products/1204/47a9c254953c49b79ca423f7c1d38df3.png"
+        },
+        {
+          "id": 3,
+          "name": "Porción torta de frutos del bosque",
+          "price": "$8.500",
+          "rating": 4.6,
+          "image": "https://domiciliospopsy.com/storage/products/1206/4b61b321db25212c542b2a13295e7321.png"
+        },
+        {
+          "id": 4,
+          "name": "Banana Split",
+          "price": "$14.900",
+          "rating": 4.8,
+          "image": "https://domiciliospopsy.com/storage/products/237/829dbb9a27eb4149030e48b963b56d3a.png"
+        }
+      ]
     },
     {
       "id": 2,
-      "image": "https://centromayor.com.co/wp-content/uploads/2023/02/logo_de_spoleto_centro_mayor-2.jpg",
+      "image": "https://www.spoleto.com.co/img/logo.png",
       "name": "Spoleto",
       "rating": 4.8,
       "address": "Cra 1 N° 15-20",
       "type": "Pastas",
-      "description": "Spoleto es un restaurante que ofrece una gran variedad de pastas, ensaladas, salsas, entre otros."
+      "description": "Spoleto es un restaurante que ofrece una gran variedad de pastas, ensaladas, salsas, entre otros.",
+      "menu": [
+        {
+          "id": 1,
+          "name": "Lasaña Mixta",
+          "price": "$30.700",
+          "rating": 4.1,
+          "image": "hhttps://images.rappi.com/products/2093534939-1656688765315_hq.jpeg?e=webp&d=511x511&q=85"
+        },
+        {
+          "id": 2,
+          "name": "Lasaña de Pollo y Champiñones",
+          "price": "$30.700",
+          "rating": 4.4,
+          "image": "https://images.rappi.com/products/2093534941-1621348984292.png?e=webp&d=511x511&q=85"
+        },
+        {
+          "id": 3,
+          "name": "Lasaña Vegetariana",
+          "price": "$31.700",
+          "rating": 3.9,
+          "image": "https://images.rappi.com/products/2093716232-1656689111436_hq.jpeg?e=webp&d=511x511&q=85"
+        },
+        {
+          "id": 4,
+          "name": "Lasaña de Pollo Carbonara",
+          "price": "$35.900",
+          "rating": 4.6,
+          "image": "https://images.rappi.com/products/2093716400-1656688995092_hq.jpeg?e=webp&d=511x511&q=85"
+        }
+      ]
     },
     {
       "id": 3,
       "image": "https://www.mambogota.com/wp-content/uploads/2018/05/logo-Crepes-Waffles-01.png",
       "name": "Crepes & Waffles",
-      "rating": 4.8,
+      "rating": 4.7,
       "address": "Calle 12a #71D-61",
       "type": "Restaurante - Heladería",
-      "description": "Crepes & Waffles es un restaurante que ofrece una gran variedad de platos fuertes, ensaladas, postres, entre otros."
+      "description": "Crepes & Waffles es un restaurante que ofrece una gran variedad de platos fuertes, ensaladas, postres, entre otros.",
+      "menu": [
+        {
+          "id": 1,
+          "name": "Crepe de Lomo Árabe",
+          "price": "$39.100",
+          "rating": 4.5,
+          "image": "https://images.rappi.com/products/tmp4227159694369609721184323.png?e=webp&d=511x511&q=85"
+        },
+        {
+          "id": 2,
+          "name": "Crepe Mexicano",
+          "price": "$26.800",
+          "rating": 4.3,
+          "image": "https://images.rappi.com/products/tmp4227159813527737532841285300.png?e=webp&d=511x511&q=85"
+        },
+        {
+          "id": 3,
+          "name": "Crepe de Stroganoff",
+          "price": "$33.200",
+          "rating": 4.8,
+          "image": "https://images.rappi.com/products/tmp422716028199132866180538626.png?e=webp&d=511x511&q=85"
+        },
+        {
+          "id": 4,
+          "name": "Crepe de Ternera",
+          "price": "$27.800",
+          "rating": 4.9,
+          "image": "https://images.rappi.com/products/tmp422716089650229518426315726.png?e=webp&d=511x511&q=85"
+        }
+      ]
     },
     {
       "id": 4,
       "image": "https://1000logos.net/wp-content/uploads/2017/06/Subway-logo.png",
       "name": "Subway",
-      "rating": 4.8,
+      "rating": 4.5,
       "address": "Diagonal 20a #0-54",
       "type": "Sanduchería",
-      "description": "Subway es una sanduchería que ofrece una gran variedad de sándwiches, ensaladas, galletas, entre otros."
+      "description": "Subway es una sanduchería que ofrece una gran variedad de sándwiches, ensaladas, galletas, entre otros.",
+      "menu": [
+        {
+          "id": 1,
+          "name": "Cerdo BBQ Subs 15 cm",
+          "price": "$18.800",
+          "rating": 4.3,
+          "image": "https://luna-meraki.svc.urbanpiper.com/_next/image?url=https%3A%2F%2Fcdn.urbanpiper.com%2Fmedia%2Fbizmedia%2F2024%2F03%2F18%2FnC9R-subway-cerdo-bbq-15cm.jpg&q=80&w=320"
+        },
+        {
+          "id": 2,
+          "name": "Costillas BBQ Subs 15 cm",
+          "price": "$20.900",
+          "rating": 4.8,
+          "image": "https://luna-meraki.svc.urbanpiper.com/_next/image?url=https%3A%2F%2Fcdn.urbanpiper.com%2Fmedia%2Fbizmedia%2F2024%2F03%2F18%2FjfMP4-subway-Costillas-B.B.Q.-Melt-15-cm.jpg&q=80&w=320"
+        },
+        {
+          "id": 3,
+          "name": "Carne BBQ Subs 15 cm",
+          "price": "$18.800",
+          "rating": 4.5,
+          "image": "https://luna-meraki.svc.urbanpiper.com/_next/image?url=https%3A%2F%2Fcdn.urbanpiper.com%2Fmedia%2Fbizmedia%2F2024%2F03%2F18%2F8GhIqVI-subway-Carne-BBQ-15-cm.jpg&q=80&w=320"
+        },
+        {
+          "id": 4,
+          "name": "Pollo Teriyaki Subs 15 cm",
+          "price": "$19.800",
+          "rating": 4.7,
+          "image": "https://luna-meraki.svc.urbanpiper.com/_next/image?url=https%3A%2F%2Fcdn.urbanpiper.com%2Fmedia%2Fbizmedia%2F2024%2F03%2F18%2FvbAhtb-subway-estilo-Teriyaki-15-cm.jpg&q=80&w=320"
+        }
+      ]
     }
   ]
